@@ -17,7 +17,7 @@ Perform exploratory data analysis on the Titanic dataset to uncover patterns and
 - Strong negative correlation between Pclass and Fare (-0.55)
 
 ## How to Run
-1. Upload `cleaned_titanic.csv`
+1. Upload `cleaned_Titanic-Dataset.csv`
 2. Execute the EDA notebook
 3. View generated plots and insights
 
